@@ -14,7 +14,7 @@ GameObject:
   - 114: {fileID: 11429350}
   m_Layer: 0
   m_Name: Marx
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -74,9 +74,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   projectile: {fileID: 170918, guid: 406eb46848a86ee46a8c4a9106997d94, type: 2}
-  projectileSpeed: 5
-  firingRate: 0.2
-  speed: 2.5
 --- !u!212 &21239762
 SpriteRenderer:
   m_ObjectHideFlags: 1

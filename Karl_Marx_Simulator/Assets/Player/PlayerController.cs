@@ -3,9 +3,9 @@
 public class PlayerController : MonoBehaviour {
 
     public GameObject projectile;
-    public float projectileSpeed = 5.0f;
-    public float firingRate = 0.2f;
-    public float speed = 2.5f;
+    float projectileSpeed = 5.0f;
+    float firingRate = 0.2f;
+    float speed = 2.5f;
     float xmin;
     float xmax;
     float ymin;
