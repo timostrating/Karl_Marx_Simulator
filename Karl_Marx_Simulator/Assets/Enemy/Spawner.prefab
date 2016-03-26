@@ -39,8 +39,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f3347439ac46a494f9d771a67af40744, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  spawnTime: 5
-  spawnDelay: 3
+  health: 100
+  spawnTime: 1.5
+  spawnDelay: 1
   enemies:
   - {fileID: 174330, guid: bc4f8024430c40b4aa393f64ff0fd88c, type: 2}
 --- !u!1001 &100100000
